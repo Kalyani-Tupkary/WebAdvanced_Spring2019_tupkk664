@@ -1,0 +1,37 @@
+
+.container{
+  width:80%;
+  margin-left:10%;
+  height:80vw;
+  background-color:gold;
+}
+
+.boxes{
+  width:calc(100% / 3);
+  height:600px;
+  background-color: black;
+  float: left;
+}
+p{
+  font-size: 100px;
+}
+
+.msg{
+  color:white;
+  font-size: 24px;
+}
+#box1{
+  background-color: red;
+}
+
+#box2{
+  background-color: blue;
+}
+
+#box3{
+  background-color: green;
+}
+
+#box4{
+  background-color: black;
+}
