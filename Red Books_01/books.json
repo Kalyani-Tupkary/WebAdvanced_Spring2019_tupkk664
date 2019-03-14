@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "K T ",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/syamu557-5.jpg",
+    "project": {
+      "title": "heelo hellloe",
+      "thesis-category": "DataArt",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/04/cc1.png",
+      "blurb": "An interactive Twitter visualization of human cravings, captured during specific US public events and holidays from Fall 2015 to Spring 2016.",
+      "description": "Collective Craving has collected almost one million tweets containing the keyword ‘craving’, captured a day before, during, and a day after these major events: Thanksgiving, Christmas, New Year’s, the Super Bowl, the Lunar New Year, Mardi Gras, Valentine’s Day, the Oscars, Leap Year Day, St. Patrick’s Day, Easter, April Fool’s Day, and Mother’s Day. Using the Web as its main interface, it provides users with a macro-level comparison that shows the top 50 most craved foods during those events and how the popularity of a given food changes over time. It also lets users be immersed in a micro-level exploration of every event, within a specific time constraint.",
+      "studio-professor": [
+        "Scott Pobiner",
+        "David Carroll"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "HJP",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/mustw826-4.jpg",
+    "project": {
+      "title": "STONEDALONE",
+      "thesis-category": "PoeticObjects",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/04/webpic2.jpg",
+      "blurb": "STONEDALONE is a collection of future talismans that provide contemporary mystical properties suited to our internet-driven age.",
+      "description": "STONEDALONE is a collection of speculative future talismans that offer the wearer playful and contemporary mystical properties based on the principles of metaphysical crystal magic. By using derivative 3d printing techniques, this project explores the potential for both technology and myself, a self-proclaimed “cyber mystic”, in the fabrication of modern day talismans and spiritual lore. The colors in each piece are associated with a distinct mystical property suited to our internet-driven age. All together, the collection intends to use digital fabrication to approximate that which is hand made, naturally occurring, and spiritually charged.",
+      "studio-professor": [
+        "John Sharp",
+        "Aneta Genova"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Christina Lafontaine",
+    "profile-pic": "http://mfadt.parsons.edu/2016/wp-content/themes/btwnspcs/img/portraits/lafoc311-4.jpg",
+    "project": {
+      "title": "Ethereal Ecologies",
+      "thesis-category": "PoeticObjects",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/04/NightInstallMedium1_1.jpg",
+      "blurb": "a series of otherworldly installations embedded within the urban landscape that encourages discovery of the unseen all around us.",
+      "description": "Ethereal Ecologies is an ongoing series of multimedia installations situated within our everyday environment that explores the concept of parallel worlds and the illusory liminal spaces that bridge the boundary between our accepted reality and the unknown. Through my own interpretive imaginings of the unseen and by representing a symbiosis between the urban landscape and these other worlds, my goal is to inspire curiosity and discovery about what exists beyond our human range of senses.",
+      "studio-professor": [
+        "Melanie Crean",
+        "Kate Sicchio"
+      ]
+    }
+  }
+]
