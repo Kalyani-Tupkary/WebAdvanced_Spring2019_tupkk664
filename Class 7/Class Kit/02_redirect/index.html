@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Responsive Web Design - 2 redirect</title>
+</head>
+<body>
+	<h1 id="device"></h1>
+
+	<script>
+//use the navigator to store that value
+var ua = window.navigator.userAgent; // calling another webpage
+document.getElementById("device").innerHTML = ua;
+
+//Mobile
+if(ua.indexOf("Mobile")!== -1){
+	window.location.replace("mobile.html");
+}
+
+//Desktop
+//-1 means it does not exist - this condition is checking if the size is preseny
+if(ua.indexOf("Macintosh")!== -1){
+	window.location.replace("desktop.html");
+};
+	</script>
+</body>
+</html>
