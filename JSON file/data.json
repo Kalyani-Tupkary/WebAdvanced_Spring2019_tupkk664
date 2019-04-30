@@ -1,0 +1,15 @@
+{
+	"waterfootprint": [{
+			"firstName": "beef",
+			"lastName": "12000"
+		},
+		{
+			"firstName": "chicken",
+			"lastName": "800"
+		},
+		{
+			"firstName": "lamb",
+			"lastName": "900"
+		}
+	]
+}

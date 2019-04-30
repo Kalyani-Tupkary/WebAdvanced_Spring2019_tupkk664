@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+html,body{
+		margin: 0;
+		padding: 0;
+	}
+
+	body{
+		background:#1F3760;
+	}
+
+.centerbox{
+	margin: auto;
+ width: 80%;
+
+ padding: 10px;
+}
+
+/*text*/
+
+	.titletext{
+		font-family: 'Roboto Slab', serif;
+		text-align: center;
+		z-index: 1;
+	}
+
+h1{
+	font-family: 'Roboto Slab', serif;
+	font-size: 80pt;
+	color: #ffffff;
+	font-weight: 500;
+}
+
+h6{
+	font-family: 'Roboto Slab', serif;
+	font-size: 16pt;
+	color: #ffffff;
+	font-weight: 500;
+}
+
+
+	/* .fullpage{
+		width:100%;
+		height:100vh;
+		background-color: #1F3760;
+	} */
+
+/*button_center*/
+
+	.btn1{
+		position: absolute;
+		padding: 10px 30px;
+		color: #ffffff;
+		line-height: 24px;
+		background-color: #1F3760;
+		text-decoration: none;
+		font-family: 'Roboto Slab', serif;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		border-radius: 22px;
+		box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+		overflow: hidden;
+	}
+
+	.btn1:before{
+		content: "";
+		position: absolute;
+		padding-top: 0%;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		background-color: rgba(256,256,256,0.2);
+		width: 0%;
+		border-radius: 50%;
+		transition: all 0.2s;
+	}
+
+	.btn1:hover:before{
+		content: "";
+		width: 120%;
+		padding-top: 120%;
+		transform: translate(-50%,-50%);
+		background-color: rgba(256,256,256,0.2);
+		border-radius: 50%;
+	}
+
+	.btn1:active{
+		box-shadow: 0 3px 5px rgba(0,0,0,0.3);
+	}
+
+/*button_two*/
+
+.btn2{
+	position: absolute;
+	padding: 10px 30px;
+	color: #ffffff;
+	line-height: 24px;
+	background-color: #1F3760;
+	text-decoration: none;
+	font-family: 'Roboto Slab', serif;
+	transform: translate(-50%,-50%);
+	border-radius: 22px;
+	box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+	overflow: hidden;
+}
+.btn2:before{
+	content: "";
+	position: absolute;
+	padding-top: 0%;
+	/* left: 50%; */
+	transform: translate(-50%,-50%);
+	background-color: rgba(256,256,256,0.2);
+	width: 0%;
+	border-radius: 50%;
+	transition: all 0.2s;
+}
+.btn2:hover:before{
+	content: "";
+	width: 200%;
+	padding-top: 200%;
+	transform: translate(-50%,-50%);
+	background-color: rgba(256,256,256,0.2);
+	border-radius: 50%;
+}
+.btn2:active{
+	box-shadow: 0 3px 5px rgba(0,0,0,0.3);
+}
+
+/*drop-down-country*/
+body {
+  text-align: center;
+}
+
+body,
+input,
+button {
+  font-family: palatino;
+  font-size: 12pt;
+}
+
+input {
+  width: 250px;
+  height: 30px;
+  border-radius: 22px;
+  padding: 3px;
+  border: 1px solid #DDE1E4;
+	cursor: pointer;
+}
+
+select {
+  width: 258px;
+  position: relative;
+
+  left: -17px;
+  margin: 0;
+  border: 1px solid #DDE1E4;
+  border-top: none;
+  font-size:9pt;
+}
+
+datalist {
+  display: none;
+}
+
+option {
+  padding: 3px;
+}
+
+option:hover {
+  background-color: #11E8EA;
+}
+
+
+/* to hide datalist arrow in webkit */
+
+input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+
+
+
+
+.level{
+background-color: #73C4E2;
+opacity: 10%;
+position: absolute;
+bottom: 0;
+width: 100%;
+height: 80%;
+box-sizing: border-box;
+animation: grow 10s ease-out forwards;
+transform-origin: bottom;
+z-index: -1;
+}
+
+@keyframes grow{
+from{
+	transform: scaleY(0);
+}
+}
+
+/*number picker*/
+
+/* Remove spinner */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Number picker */
+.input-group-number { width: 100px; }
+.input-group-number .input-xs { width: 60px; }
+
+/* Loading from JSON */
+.json-container{
+	font-size: 20px;
+	color: dimgray;
+	padding: 30px;
+	display: block;
+	margin: 30px;
+	text-align: center;
+	margin: 0 auto;
+
+
+}
