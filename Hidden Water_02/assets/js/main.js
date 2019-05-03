@@ -76,22 +76,22 @@ $(function() {
     });
 });
 
-// Loading from JSON
-
-$.getJSON( "../data.json", function(data) {
-
-  console.log(data.waterfootprint);
-
-  var myUsers = data.waterfootprint;
-
-  console.log(myUsers);
-
-  for( var x in myUsers){
-
-    console.log( myUsers[x].firstName + " " + myUsers[x].lastName);
-
-  $(".json-container").append(myUsers[x].firstName + " " + myUsers[x].lastName);
-
-  }
-
-})
+// // Loading from JSON
+//
+// $.getJSON( "../data.json", function(data) {
+//
+//   console.log(data.waterfootprint);
+//
+//   var myUsers = data.waterfootprint;
+//
+//   console.log(myUsers);
+//
+//   for( var x in myUsers){
+//
+//     console.log( myUsers[x].firstName + " " + myUsers[x].lastName);
+//
+//   $(".json-container").append(myUsers[x].firstName + " " + myUsers[x].lastName);
+//
+//   }
+//
+// })

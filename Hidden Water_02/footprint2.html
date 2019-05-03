@@ -11,15 +11,38 @@
   <div class="centerbox">
 
 
-    <div class="input-group input-group-number">
-      <span class="input-group-btn">
-        <button class="btn btn-default" type="button" data-increment="-1"><i class="fa fa-minus" aria-hidden="true"></i></button>
-      </span>
-      <input type="number" class="form-control input-xs" min="0" max="100" value="0">
-      <span class="input-group-btn">
-        <button class="btn btn-default" type="button" data-increment="1"><i class="fa fa-plus" aria-hidden="true"></i></button>
-      </span>
-    </div><!-- /input-group -->
+    <p>How much beef do you eat every week?</p>
+
+    <p id="demo"></p>
+
+    <button onclick = "multiply()">more</button>
+    <button onclick = "decrease()">less</button>
+
+    <p id="final"></p>
+
+    <button onclick = "final(a)">calculate</button>
+
+    <script>
+    var a = 0;
+    var final;
+
+
+    function multiply(){
+        a++
+        document.getElementById("demo").innerHTML = a;
+    }function decrease(){
+    	a--;
+        document.getElementById("demo").innerHTML = a;
+    }
+  
+    function final(a){
+    	final = a*500;
+      document.getElementById("final").innerHTML = final;
+
+    }
+
+    </script>
+
 
 
 </div>
