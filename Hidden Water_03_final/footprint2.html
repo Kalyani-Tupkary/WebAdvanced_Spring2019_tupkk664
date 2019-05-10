@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+   <title>Hidden Water Wave</title>
+   <link rel="stylesheet" href="assets/css/main.css" />
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+</head>
+<body>
+  <div class="centerbox">
+<h6>What does your diet consist of?</h6>
+</div>
+
+    <!-- <p id="demo"></p>
+
+    <button onclick = "multiply()">more</button>
+    <button onclick = "decrease()">less</button>
+
+    <p id="final"></p>
+
+    <button onclick = "final(a)">calculate</button>
+
+    <script>
+    var a = 0;
+    var final;
+
+
+    function multiply(){
+        a++
+        document.getElementById("demo").innerHTML = a;
+    }function decrease(){
+    	a-;
+        document.getElementById("demo").innerHTML = a;
+    }
+
+    function final(a){
+    	final = a*500;
+      document.getElementById("final").innerHTML = final;
+
+    }
+   </script> -->
+
+   <div class="box transform"></div>
+<!-- <input type="button" id="buttonbeef" value="Beef"></input> -->
+<!-- button example -->
+<a class="btn1" id="buttonfruits" style="top:20vh">
+  <span>Fruits</span>
+</a>
+<script>
+$("#buttonfruits").click(function() {
+  $('.transform').addClass('transform-active');
+});
+</script>
+
+<div class="box1 transform1"> </div>
+<a class="btn1" id="buttonveg" style="top:30vh">
+  <span>Vegetables</span>
+</a>
+<script>
+$("#buttonveg").click(function() {
+  $('.transform1').addClass('transform1-active');
+});
+</script>
+
+<div class="box2 transform2"> </div>
+<a class="btn1" id="buttoneggs" style="top:40vh">
+  <span>Eggs</span>
+</a>
+<script>
+$("#buttoneggs").click(function() {
+  $('.transform2').addClass('transform2-active');
+});
+</script>
+
+<div class="box3 transform3"> </div>
+<a class="btn1" id="buttonchicken" style="top:50vh">
+  <span>Chicken</span>
+</a>
+<script>
+$("#buttonchicken").click(function() {
+  $('.transform3').addClass('transform3-active');
+});
+</script>
+
+<div class="box4 transform4"> </div>
+<a class="btn1" id="buttonpork" style="top:60vh">
+  <span>Pork</span>
+</a>
+<script>
+$("#buttonpork").click(function() {
+  $('.transform4').addClass('transform4-active');
+});
+</script>
+
+<div class="box5 transform5"> </div>
+<a class="btn1" id="buttonbeef" style="top:70vh">
+  <span>Beef</span>
+</a>
+<script>
+$("#buttonbeef").click(function() {
+  $('.transform5').addClass('transform5-active');
+});
+</script>
+
+<a href="footprint3.html" class="btn1" style="top:90vh">
+  <span>Find Your Footprint</span>
+</a>
+
+
+</body>
+
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<!-- <script src="assets/js/util.js"></script> -->
+<script src="assets/js/main.js"></script>
+</html>

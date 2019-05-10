@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1177" height="585.5" viewBox="0 0 1177 585.5">
+  <g id="Group_7" data-name="Group 7" transform="translate(-132 -55.5)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="215" height="196" transform="translate(534 344.5)" fill="#73c4e2"/>
+    <text id="Your_food_s_water_fo" data-name="Your food’s water fo" transform="translate(758.5 636)" fill="#fff" font-size="18" font-family="MuseoSlab-500, Museo Slab" font-weight="500"><tspan x="-315.81" y="0">Your food’s water footprint is 20% above the average american footprint</tspan></text>
+    <text id="Average_American_wat" data-name="Average American wat" transform="translate(1072 292)" fill="#fff" font-size="18" font-family="MuseoSlab-500, Museo Slab" font-weight="500"><tspan x="0" y="0">Your food’s water footprint</tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande" font-weight="400"></tspan><tspan x="0" y="22">is 4230 litres of water</tspan><tspan y="22" font-family="LucidaGrande, Lucida Grande" font-weight="400"></tspan><tspan x="0" y="44"> </tspan></text>
+    <circle id="Oval" cx="4" cy="4" r="4" transform="translate(1038 295)" fill="#fff"/>
+    <text id="Average_American_wat-2" data-name="Average American wat" transform="translate(433 341)" fill="#fff" font-size="18" font-family="MuseoSlab-500, Museo Slab" font-weight="500"><tspan x="-300.762" y="0">Average American water footprint</tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande" font-weight="400"></tspan><tspan x="-191.016" y="22">is 3496 litres of water </tspan></text>
+    <circle id="Oval-2" data-name="Oval" cx="4" cy="4" r="4" transform="translate(455 341)" fill="#fff"/>
+    <path id="Line" d="M287.516,1.024H.621" transform="translate(461 343.976)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="208" height="242" transform="translate(758 298.5)" fill="#73c4e2"/>
+    <path id="Line_Copy" data-name="Line Copy" d="M283.109,1.647H.621" transform="translate(757.891 297.294)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="541" height="187" transform="translate(479 55.5)" fill="none"/>
+  </g>
+</svg>

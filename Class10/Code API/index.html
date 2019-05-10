@@ -13,7 +13,28 @@
 
 	<div id="btn">CLICK HERE</div>
 
-	<div class="json-container"></div>
+	<div class="json-container">
+		<script>
+		$.getJSON( "../data.json", function(data) {
+
+			console.log(data.people);
+
+			var myUsers = data.people;
+
+			console.log(myUsers);
+
+			for( var x in myUsers){
+
+				console.log( myUsers[x].firstName + " " + myUsers[x].lastName);
+
+			$(".json-container").append(myUsers[x].firstName + " " + myUsers[x].lastName);
+
+			}
+
+		})
+		</script>
+		
+	</div>
 
 
 	<script type="text/javascript" src="js/jquery-min.js"></script>

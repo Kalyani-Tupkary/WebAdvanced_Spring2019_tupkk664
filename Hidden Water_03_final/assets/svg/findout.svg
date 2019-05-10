@@ -1,0 +1,18 @@
+<svg id="Group_12" data-name="Group 12" xmlns="http://www.w3.org/2000/svg" width="1280" height="654" viewBox="0 0 1280 654">
+  <g id="Group_11" data-name="Group 11" transform="translate(15 -2)">
+    <text id="_92_of_your_water_co" data-name="92% of your water co" transform="translate(116 162)" fill="#fff" font-size="16" font-family="MuseoSlab-300, Museo Slab" font-weight="300"><tspan x="0" y="0">What you eat – your diet – makes up at least two-thirds</tspan><tspan x="0" y="19">of your total water footprint. This is primarily due to the</tspan><tspan x="0" y="38">large volume of “virtual water” needed to grow and produce</tspan><tspan x="0" y="57">your food. Diet overwhelmingly makes up the largest </tspan><tspan x="0" y="76">part of a person’s water footprint, even when compared to</tspan><tspan x="0" y="95">takinglong showers or flushing the toilet every time it’s</tspan><tspan x="0" y="114">used (these types of water uses matter but have less</tspan><tspan x="0" y="133">of an impact).</tspan><tspan x="0" y="152"> </tspan></text>
+    <g id="Group_10" data-name="Group 10">
+      <g id="Group_9" data-name="Group 9" transform="translate(0 -29)">
+        <text id="_92_of_your_water_co-2" data-name="92% of your water co" transform="translate(678 575)" fill="#fff" font-size="16" font-family="MuseoSlab-300, Museo Slab" font-weight="300"><tspan x="0" y="0">Grey Water Footprint: </tspan><tspan x="0" y="19"></tspan><tspan x="0" y="38">The amount of freshwater required to dilute the wastewater</tspan><tspan x="0" y="57">generated in manu-facturing, in order to maintain water</tspan><tspan x="0" y="76" xml:space="preserve">quality, for food this refers  field and farm runoff.</tspan><tspan x="0" y="95"> </tspan></text>
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="40" cy="40" r="40" transform="translate(640 520)" fill="rgba(255,255,255,0.2)"/>
+      </g>
+      <g id="Group_8" data-name="Group 8" transform="translate(0 -6)">
+        <text id="_92_of_your_water_co-3" data-name="92% of your water co" transform="translate(678 350)" fill="#fff" font-size="16" font-family="MuseoSlab-300, Museo Slab" font-weight="300"><tspan x="0" y="0">Green Water Footprint</tspan><tspan x="0" y="19"></tspan><tspan x="0" y="38">The amount of rainwater required (evaporated or used</tspan><tspan x="0" y="57" xml:space="preserve">directly) to make an item – for food  this refers to dry</tspan><tspan x="0" y="76">farming where crops receiveonly rainwater. </tspan><tspan x="0" y="95"> </tspan></text>
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="40" cy="40" r="40" transform="translate(640 295)" fill="rgba(57,173,93,0.2)"/>
+      </g>
+      <text id="_92_of_your_water_co-4" data-name="92% of your water co" transform="translate(680 163)" fill="#fff" font-size="16" font-family="MuseoSlab-300, Museo Slab" font-weight="300"><tspan x="0" y="0">Blue Water Footprint</tspan><tspan x="0" y="19"></tspan><tspan x="0" y="38">The amount of surface water and groundwater</tspan><tspan x="0" y="57">required (evaporated or used directly) to produce</tspan><tspan x="0" y="76">an item– for food this mainly refers to crop irrigation.</tspan></text>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="40" cy="40" r="40" transform="translate(640 107)" fill="rgba(115,196,226,0.2)"/>
+    </g>
+  </g>
+  <rect id="Rectangle_8" data-name="Rectangle 8" width="1280" height="654" fill="none"/>
+</svg>
